@@ -1,5 +1,5 @@
 # Welcome!
-
+It's a great day!
 This is my web site playground.
 
 Right now, I am preparing to teach a workshop about using GitHub Pages. I love the ease with which GitHub makes publishing a personal web site. New to web programming? This is a great way to learn and try out new ideas! Not new to coding? While you cannot build a dynamic website to build your empire, GitHub Pages is a great place to share what you are learning with the world. It can also serve as your online resume and portfolio!
